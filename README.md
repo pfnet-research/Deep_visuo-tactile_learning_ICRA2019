@@ -7,7 +7,7 @@ https://arxiv.org/abs/1803.03435
 https://www.youtube.com/watch?v=ys0QtKVVlOQ&feature=youtu.be  
 
 # Dataset:
-Dataset will be in public soon.
+https://static.preferred.jp/datasets/icra2019/deep_visuo_tactile_lerning/PFN_visuo-tactile_dataset4ICRA2019.zip
 
 Shape of *.npy is following:
 ```
